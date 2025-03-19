@@ -91,16 +91,6 @@ We used the **Steam API** to extract data because of its **extensive coverage** 
 - **Filtering English Reviews**: Ensured **consistent sentiment analysis** across users.
 - **Joining Daily Data**: Merged game metadata & reviews per **daily snapshot** before combining datasets.
 
-### **3. Data Access**
-Due to GitHub's file size limitations, some large datasets are stored on Google Drive. You can access them using the following links:
-- Full Dataset Folder: [Link](https://drive.google.com/drive/u/0/folders/12ECbY0PjCb76N8bsNWKZTCpMkBmK6R1M)
-
-Individual Files:
-- **[reviews_summary.csv](https://drive.google.com/file/d/19j-ePeM6reLBeVh-_GOd_Y1euP-Phra5/view)** - Summary statistics of Steam reviews.
-- **[combined_reviews.csv](https://drive.google.com/file/d/1BxBNf1Lf5GD2fnbI35KavbFlyQTFM1cw/view)** - Merged dataset containing all user reviews.
-
-To use these files, download them and place them inside the `2-data/` directory before running the analysis.
-
 ---
 
 ## Key Findings
